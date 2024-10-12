@@ -34,7 +34,7 @@ export function AddItemForm({ onNewItem }) {
                     value={newItem}
                     onChange={(e) => setNewItem(e.target.value)}
                     type="text"
-                    placeholder="How's Your Day?"
+                    placeholder="apa kabar?"
                     aria-label="New item"
                 />
                 <Button
