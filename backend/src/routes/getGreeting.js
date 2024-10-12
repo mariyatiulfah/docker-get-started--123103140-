@@ -1,4 +1,4 @@
-const GREETING = 'WELCOME!';
+const GREETING = 'ASSALAMU'ALAIKUM UKHTI';
 
 module.exports = async (req, res) => {
     res.send({
